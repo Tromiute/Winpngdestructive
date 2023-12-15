@@ -1,0 +1,2 @@
+# Winpngdestructive
+Malware c++
